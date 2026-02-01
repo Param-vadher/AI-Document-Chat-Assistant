@@ -51,9 +51,8 @@ Quick Start Guide
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Param-vadher/AILM.git
-cd AILM
-cd AILM
+git clone https://github.com/Param-vadher/AI-Document-Chat-Assistant.git
+cd "AI Document Chat Assistant"
    ```
 ### 2️⃣ Install Dependencies
 ```bash
@@ -115,7 +114,7 @@ How to Use
 ## 📁 Project Structure
 
 ```
-AILM/
+AI Document Chat Assistant/
 ├── app.py                  # Main FastAPI application
 ├── Requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (create this)
@@ -161,7 +160,7 @@ This project was developed as part of a **One-Day AIML Workshop** covering:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Param-vadher/AILM/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Param-vadher/AI-Document-Chat-Assistant/issues).
 
 ### How to Contribute:
 1. Fork the repository
@@ -185,7 +184,7 @@ For questions, suggestions, or collaboration opportunities:
 - 💼 LinkedIn: [Param Vadher](https://www.linkedin.com/in/param-vadher-b1a9b7333)
 - 🐙 GitHub: [@Param-vadher](https://github.com/Param-vadher)
 
-For bug reports and feature requests, please [open an issue](https://github.com/Param-vadher/AILM/issues).
+For bug reports and feature requests, please [open an issue](https://github.com/Param-vadher/AI-Document-Chat-Assistant/issues).
 
 ---
 
