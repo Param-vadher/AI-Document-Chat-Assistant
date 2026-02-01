@@ -384,7 +384,7 @@ Special thanks to the amazing open-source community and tools that made this pro
 
 ### 💻 Built with ❤️ by Param Vadher
 
-**AIML Workshop Project | 2026**
+**AIML Workshop Project | 2024**
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
