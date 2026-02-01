@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+chromadb
+httpx
+uuid
+PyMuPDF
+python-multipart
+sentence-transformers
+python-dotenv
+google-generativeai
+markdown 
+fitz
