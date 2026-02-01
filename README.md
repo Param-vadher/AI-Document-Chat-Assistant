@@ -393,12 +393,6 @@ Special thanks to the amazing open-source community and tools that made this pro
 
 ---
 
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Param-vadher/AI-Document-Chat-Assistant&type=Date)](https://star-history.com/#Param-vadher/AI-Document-Chat-Assistant&Date)
-
----
-
 **⭐ Don't forget to star this repository if you found it useful!**
 
 Made with 💙 using cutting-edge AI technology
