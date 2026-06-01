@@ -10,10 +10,12 @@
 
 ### 🎓 AIML Workshop Project - Advanced RAG Implementation
 
+
 *An intelligent RAG-powered chat application that enables users to upload PDF and TXT documents and have natural conversations with an AI professor about their content.*
 
 [Features](#-key-features) • [Installation](#-quick-start-guide) • [Usage](#-how-to-use) • [Documentation](#-project-structure) • [Contributing](#-contributing)
 
+> 🤖 This project uses Agentic AI and RAG to answer questions from uploaded documents. [web:17][web:24]
 </div>
 
 ---
