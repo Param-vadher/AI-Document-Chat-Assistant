@@ -15,7 +15,7 @@
 
 [Features](#-key-features) • [Installation](#-quick-start-guide) • [Usage](#-how-to-use) • [Documentation](#-project-structure) • [Contributing](#-contributing)
 
-> 🤖 This project uses Agentic AI and RAG to answer questions from uploaded documents. [web:17][web:24]
+> 🤖 This project was built using Agentic AI technologies and an AI-powered RAG pipeline for document-based conversations.
 </div>
 
 ---
